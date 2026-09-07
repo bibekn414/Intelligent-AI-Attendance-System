@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://snapclass.streamlit.app/"><b>🚀 Live Application</b></a>
+  <a href="https://bibek-snapclass.streamlit.app"><b>🚀 Live Application</b></a>
   &nbsp; • &nbsp;
   <a href="https://github.com/bibekn414/ai-attendance-project-app"><b>🤖 Application Repository</b></a>
   &nbsp; • &nbsp;
