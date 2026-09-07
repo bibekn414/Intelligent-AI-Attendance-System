@@ -1,4 +1,4 @@
-#  SnapClass — Intelligent AI Attendance System
+#  SnapClass - Intelligent AI Attendance System
 
 <p align="center">
   <b>An AI-powered smart attendance platform that automates classroom attendance using Face Recognition, Voice Biometrics, Machine Learning, and Cloud-based Data Management.</b>
