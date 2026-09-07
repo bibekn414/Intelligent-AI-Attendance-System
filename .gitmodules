@@ -1,6 +1,7 @@
 [submodule "ai-attendance-project-app"]
 	path = ai-attendance-project-app
-	url = https://github.com/shradha-khapra/ai-attendance-project-app.git
+	url = https://github.com/bibekn414/ai-attendance-project-app.git
+
 [submodule "ai-attendance-project-landing"]
 	path = ai-attendance-project-landing
-	url = https://github.com/shradha-khapra/ai-attendance-project-landing.git
+	url = https://github.com/bibekn414/ai-attendance-project-landing.git
